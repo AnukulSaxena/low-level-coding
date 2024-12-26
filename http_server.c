@@ -56,6 +56,7 @@ int main()
 
     // Step 6: Keep accepting connections in an infinite loop
     while (1)
+    
     {
         printf("Waiting for incoming connections...\n");
 
